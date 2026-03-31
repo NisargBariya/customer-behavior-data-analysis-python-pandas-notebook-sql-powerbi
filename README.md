@@ -57,6 +57,7 @@ Customer-Trends-Analysis-Project/
 
 ## 📈 Dashboard
 Created interactive dashboard using Power BI.
+![Uploading Screenshot 2026-03-31 185719.png…]()
 
 ---
 
